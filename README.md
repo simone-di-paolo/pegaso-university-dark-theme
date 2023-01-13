@@ -24,7 +24,7 @@
   NB. I'm not a FE developer so, probably, it's the worst things you'll ever see on Github but... It works for now.
   Feel free to fork/create PR in order to improve the style.
 
-  Cheers,
+  Cheers,<br>
   Simone
  </p>
 </div>
