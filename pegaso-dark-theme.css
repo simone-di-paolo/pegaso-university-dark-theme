@@ -1,0 +1,62 @@
+body {
+    background-color: #222831 !important;
+}
+
+h1, h2, h3, h4, h5, p, i {
+    color: #fff;
+}
+
+.absolute.inset-0.flex.item-center.align-center {
+    background: #222831 !important;
+}
+
+.panel-default, .panel-body {
+    background-color: #393E46 !important;
+}
+
+.btn {
+    background-color: #393E46 !important;
+    color: #fff;
+    border-color: #263238;
+}
+
+.text-left, .panel-body, .text-center.font-semibold, .text-pegaso-gray {
+    color: #fff;
+}
+
+.navbar-pegaso-padding, .rounded-full.shadow-center.text-pegaso {
+    background-color: #222831 !important;
+}
+.navbar-pegaso {
+    border-color: #263238 !important;
+}
+
+#main-menu, .row, .bg-white.w-full, .bg-white {
+    background-color: #263238 !important;
+}
+
+
+.titolo-sezione, .modal-content, .flex.flex-col.h-24.w-24.items-center.justify-center{
+    background-color: #222831 !important;
+    color: #fff !important;
+}
+
+.border-pegaso-secondary {
+    border-color: #222831;
+}
+
+.h-full.w-full.bg-white.flex.flex-col.text-center.justify-center.shadow-pegaso.rounded-lg.cursor-pointer {
+    color: #fff;
+}
+
+.gradient {
+   background: linear-gradient(90deg,hsla(0,0%,100%,0),hsla(0,0%,100%,0) 50%,#263238)!important
+}
+
+.text-pegaso-black, .main-menu-description {
+    color: white !important;
+}
+
+.flex.overflow-auto {
+    background: #263238;
+}
